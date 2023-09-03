@@ -16,6 +16,9 @@ All kind of cheatsheets and scripts
 [Text to Speech](Python\Snippets/text_to_speech.py)</br>
 [GPT-3.5-turbo](Python\Snippets/gpt-3.5-turbo.py)</br>
 <br>
+### Development
+[Git](Development/git.md)</br>
+<br>
 ### Samba
 [Samba install script](Samba/install_samba.py)</br>
 [Samba install guide](Samba/install_samba.md)</br>
