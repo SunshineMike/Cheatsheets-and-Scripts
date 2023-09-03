@@ -1,7 +1,8 @@
 # Cheats and Scripts
 All kind of cheatsheets and scripts
 
-### Linux
+### Linux Cheatsheets
+[Basic CLI](/Linux/basics.md)</br>
 [cron](/Linux/cron.md)</br>
 [journalctl](/Linux/journalctl.md)</br>
 [search](/Linux/search.md)</br>
