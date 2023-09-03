@@ -11,6 +11,7 @@ All kind of cheatsheets and scripts
 [user management](/Linux/user_managment.md)</br>
 <br>
 ### Python Snippets
+[Project Structure](Python\Snippets/ProjectStructure.md)</br>
 [DALL_E](Python\Snippets/dall_e.py)</br>
 [Speech to Text](Python\Snippets/speech_recognition.py)</br>
 [Text to Speech](Python\Snippets/text_to_speech.py)</br>
