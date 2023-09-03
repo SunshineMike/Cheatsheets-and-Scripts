@@ -24,3 +24,7 @@ All kind of cheatsheets and scripts
 [Samba install script](Samba/install_samba.py)</br>
 [Samba install guide](Samba/install_samba.md)</br>
 [Samba-Cheatsheet](Samba/samba_cheatsheet.md)</br>
+<br>
+### Technical Stuff
+[Common Ports](Technical%20Stuff/Common%20Ports.md)</br>
+[OSI](Technical%20Stuff/OSI.md)</br>
