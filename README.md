@@ -5,6 +5,7 @@ All kind of cheatsheets and scripts
 [Basic CLI](/Linux/basics.md)</br>
 [cron](/Linux/cron.md)</br>
 [journalctl](/Linux/journalctl.md)</br>
+[process management](/Linux/process_managment.md)
 [search](/Linux/search.md)</br>
 <br>
 ### Python Snippets
