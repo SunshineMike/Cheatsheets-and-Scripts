@@ -1,2 +1,2 @@
-# Scripts
-All kind of scripts
+# Cheats and Scripts
+All kind of cheatsheets and scripts
