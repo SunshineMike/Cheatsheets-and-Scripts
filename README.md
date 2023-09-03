@@ -1,12 +1,14 @@
-# Cheats and Scripts
+# 🧠 Cheats and Scripts ⚙️
 All kind of cheatsheets and scripts
 
 ### Linux Cheatsheets
 [Basic CLI](/Linux/basics.md)</br>
 [cron](/Linux/cron.md)</br>
 [journalctl](/Linux/journalctl.md)</br>
+[network](/Linux/network.md)</br>
 [process management](/Linux/process_managment.md)
 [search](/Linux/search.md)</br>
+[user management](/Linux/user_managment.md)</br>
 <br>
 ### Python Snippets
 [DALL_E](Python\Snippets/dall_e.py)</br>
