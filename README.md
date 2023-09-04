@@ -27,4 +27,5 @@ All kind of cheatsheets and scripts
 <br>
 ### Technical Stuff
 [Common Ports](Technical%20Stuff/Common%20Ports.md)</br>
+[HTTP/HTTPS](Technical%20Stuff/HTTP_HTTPS.md)</br>
 [OSI](Technical%20Stuff/OSI.md)</br>
