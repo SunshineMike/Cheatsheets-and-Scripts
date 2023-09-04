@@ -19,6 +19,7 @@ All kind of cheatsheets and scripts
 <br>
 ### Development
 [Git](Development/git.md)</br>
+[SOLID](Development/SOLID.md)</br>
 <br>
 ### Samba
 [Samba install script](Samba/install_samba.py)</br>
