@@ -6,7 +6,7 @@ All kind of cheatsheets and scripts
 [cron](/Linux/cron.md)</br>
 [journalctl](/Linux/journalctl.md)</br>
 [network](/Linux/network.md)</br>
-[process management](/Linux/process_managment.md)
+[process management](/Linux/process_managment.md)</br>
 [search](/Linux/search.md)</br>
 [user management](/Linux/user_managment.md)</br>
 <br>
